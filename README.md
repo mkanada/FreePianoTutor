@@ -13,5 +13,5 @@ Development Plan
  - Create modules for all platforms for MIDI input
  - Create a synthesia clone, but with MusicXML as input and a 'mid' file as accompaniment
  - Create program where can be easy to merge MusicXML and 'mid' files.
- -- Maybe, create a file format that merges MusicXML and mid.
- -- Maybe, port or incorporate MMA in the project.
+ * Maybe, create a file format that merges MusicXML and mid.
+ * Maybe, port or incorporate MMA in the project.
