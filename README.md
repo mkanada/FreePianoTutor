@@ -7,7 +7,7 @@ Will work in Windows, Linux, Android, MacOS, iOS.
 With a MIDI Keyboard, a Notebook/Computer/Tablet, anyone will be able to learn to play any music created by the community.
 
 Development Plan:
- * Choose the best platform. Currently evaluating GODOT and Gluon Substrate
+ * Choose the best platform. Currently evaluating GODOT and Gluon Substrate (JavaFX)
    * GODOT Advantages
      * After setting up the environment, cross compilation to all platforms seems natural
      * The knowledge gained in process can be useful in other projects. Create games seems to be funny.
